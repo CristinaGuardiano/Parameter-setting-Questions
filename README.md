@@ -18,4 +18,4 @@ This file contains the updated list of questions. It will be made available upon
 
 DISCLAIMER
 
-The files in this repository are part of the paper “Syntactic diversity and language learnability”, by Paola Crisma, Cristina Guardiano and Giuseppe Longobardi, appeared in Studi e Saggi Linguistici LVIII(2), 2020 (pp. 99-130), and their contend entirely belongs to the authors of the paper. If you want to use any of the information contained in the two files, please, cite them as follows: Crisma et al. (2020, Suppl. Mat.). Please, make sure that you’re using the most updated version.
+The files in this repository are part of the paper “Syntactic diversity and language learnability”, by Paola Crisma, Cristina Guardiano and Giuseppe Longobardi, appeared in Studi e Saggi Linguistici LVIII(2), 2020 (pp. 99-130), and their content entirely belongs to the authors of the paper. If you want to use any of the information contained in the two files, please, cite them as follows: Crisma et al. (2020, Suppl. Mat.). Please, make sure that you’re using the most updated version.
